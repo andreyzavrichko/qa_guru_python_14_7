@@ -1,4 +1,4 @@
-pandas
-pypdf
-pytest
-openpyxl
+pandas==2.2.2
+pypdf==4.2.0
+pytest==8.2.2
+openpyxl==3.2.0b1
